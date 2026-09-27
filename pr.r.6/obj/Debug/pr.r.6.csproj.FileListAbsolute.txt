@@ -1,0 +1,7 @@
+D:\simss\projectssss\pr.r.6\bin\Debug\pr.r.6.exe.config
+D:\simss\projectssss\pr.r.6\bin\Debug\pr.r.6.exe
+D:\simss\projectssss\pr.r.6\bin\Debug\pr.r.6.pdb
+D:\simss\projectssss\pr.r.6\obj\Debug\pr.r.6.csproj.AssemblyReference.cache
+D:\simss\projectssss\pr.r.6\obj\Debug\pr.r.6.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\pr.r.6\obj\Debug\pr.r.6.exe
+D:\simss\projectssss\pr.r.6\obj\Debug\pr.r.6.pdb
